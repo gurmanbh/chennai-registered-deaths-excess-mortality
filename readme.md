@@ -20,14 +20,14 @@ As the second wave of the pandemic sweeps through the country, and reported numb
 ## Chennai's Factor
 For the period between April 27, 2020 and April 30, 2021, Chennai recorded the following numbers
 
-- Registered Deaths: 79,052
-- COVID Deaths:  4,741
+- Registered Deaths: 78,924
+- COVID Deaths:  4,729
 
-The 5 year average for the same period between 2015 - 2019 is 63,249 deaths.
+The 5 year average for the same period between 2015 - 2019 is 63,090 deaths.
 
 Under-reporting factor = (Registered Deaths - Historical Avg) / COVID Deaths
 
-The brings the current under-reporting factor for the city at 3.33.
+The brings the current under-reporting factor for the city at 3.35.
 
 ![Registered deaths in Chennai (14-day rolling average)](charts/deaths.png)
 ![Excess deaths and COVID-related deaths in Chennai (14-day rolling average)](charts/excess-deaths.png)
