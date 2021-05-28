@@ -3,7 +3,10 @@
 Repository contains the following: 
 
 1) Registered deaths in Greater Chennai Corporation from 2008 - May 2021.
-2) Excess mortality calculated from registered deaths and compared with reported COVID deaths.
+	- [By date](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-date.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=date%2Cdesc&stickyColumnName=date)
+	- [By month](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-month.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=month%28date%29%2Cdesc&stickyColumnName=month%28date%29)
+	- [By day and sex](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-date-sex.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=month%28date%29%2Cdesc&stickyColumnName=month%28date%29)
+2) Excess mortality calculated from registered deaths and compared with reported COVID deaths. [Data](ered-deaths-excess-mortality?filename=data%2Fexcess-deaths.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=Date%2Cdesc&stickyColumnName=Date)
 3) Charts illustrating the extent
 
 Note: All figures were last updated on 27 May, 2021. As explained by [Rukmini S in this story](https://www.thehindu.com/opinion/op-ed/interpreting-deaths-in-chennai/article34645264.ece), the data for 2021 (in particular, April and May), is likely to be an underestimate as people have up to an year to register deaths. Because of the same, the charts end at April 30, 2021. I plan on updating this repository periodically.
@@ -30,6 +33,8 @@ Under-reporting factor = (Registered Deaths - Historical Avg) / COVID Deaths
 The brings the current under-reporting factor for the city at 3.35.
 
 ![Registered deaths in Chennai (14-day rolling average)](charts/deaths.png)
+
+Based on the Economist's Excess Mortality chart. See how to read the chart [here](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker).
 ![Excess deaths and COVID-related deaths in Chennai (14-day rolling average)](charts/excess-deaths.png)
 
 ----------
