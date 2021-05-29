@@ -2,7 +2,7 @@
 
 Repository contains the following: 
 
-1) Registered deaths in Greater Chennai Corporation from 2008 - May 2021.
+1) Registered deaths in Greater Chennai Corporation from 2006 - May 2021.
 	- [By date](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-date.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=date%2Cdesc&stickyColumnName=date)
 	- [By month](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-month.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=month%28date%29%2Cdesc&stickyColumnName=month%28date%29)
 	- [By day and sex](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-date-sex.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=month%28date%29%2Cdesc&stickyColumnName=month%28date%29)
