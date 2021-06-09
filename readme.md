@@ -9,7 +9,7 @@ Repository contains the following:
 2) Excess mortality calculated from registered deaths and compared with reported COVID deaths. [Data](ered-deaths-excess-mortality?filename=data%2Fexcess-deaths.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=Date%2Cdesc&stickyColumnName=Date)
 3) Charts illustrating the extent
 
-Note: All figures were last updated on 27 May, 2021. As explained by [Rukmini S in this story](https://www.thehindu.com/opinion/op-ed/interpreting-deaths-in-chennai/article34645264.ece), the data for 2021 (in particular, April and May), is likely to be an underestimate as people have up to an year to register deaths. Because of the same, the charts end at April 30, 2021. I plan on updating this repository periodically.
+Note: All figures were last updated on June 9, 2021. As explained by [Rukmini S in this story](https://www.thehindu.com/opinion/op-ed/interpreting-deaths-in-chennai/article34645264.ece), the data for 2021 (in particular, April and May), is likely to be an underestimate as people have up to an year to register deaths. Because of the same, the charts end at May 4, 2021. I plan on updating this repository periodically.
 
 ---------
 ## What is excess mortality?
@@ -21,16 +21,22 @@ As the second wave of the pandemic sweeps through the country, and reported numb
 ----------
 
 ## Chennai's Factor
-For the period between April 27, 2020 and April 30, 2021, Chennai recorded the following numbers
+For the period between April 27, 2020 and May 04, 2021, Chennai recorded the following numbers
 
-- Registered Deaths: 78,924
-- COVID Deaths:  4,729
+- Registered Deaths: 83,153
+- Reported COVID Deaths:  4,879
 
-The 5 year average for the same period between 2015 - 2019 is 63,090 deaths.
+The 5 year average for the same period between 2015 - 2019 is 63,726 deaths.
 
-Under-reporting factor = (Registered Deaths - Historical Avg) / COVID Deaths
+Under-reporting factor = (Registered Deaths - Historical Avg) / Reported COVID Deaths
 
-The brings the current under-reporting factor for the city at 3.35.
+The brings the current under-reporting factor for the city at \~4.
+
+If we compare the same numbers for April 2021: 
+- Registered Deaths: 8,971
+- Reported COVID deaths: 501
+- Historical Avg: 4,675
+- Under-reporting factor: 8.5
 
 ![Registered deaths in Chennai (14-day rolling average)](charts/deaths.png)
 
