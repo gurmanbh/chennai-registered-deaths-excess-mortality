@@ -1,5 +1,7 @@
 # Registered Deaths, COVID Deaths and Excess mortality in Chennai
 
+Uses data scraped from the [Greater Chennai Corporation](https://chennaicorporation.gov.in/gcc/online-services/death-certificate/) website.
+
 Repository contains the following: 
 
 1) Registered deaths in Greater Chennai Corporation from 2006 - May 2021.
@@ -37,6 +39,9 @@ If we compare the same numbers for April 2021:
 - Reported COVID deaths: 501
 - Historical Avg: 4,675
 - Under-reporting factor: 8.5
+
+While my calculation is simplistic, Ariel Karlinsky's sophisticated model that accounts for growth, seasonality, other factors, says b/w Apr 4-May 16 - [deaths in Chennai were 6.2x of the reported figures](https://twitter.com/ArielKarlinsky/status/1402604339558969350?s=20). My simple math would place that time period at 7x.
+
 
 ![Registered deaths in Chennai (14-day rolling average)](charts/deaths.png)
 
