@@ -1,4 +1,4 @@
-"Date","Historical Avg (2015-2019)","Cumulative COVID Deaths","Daily COVID Deaths","14 Day Avg COVID Deaths","Registered Deaths","14 Day Avg Registered Deaths","Excess Deaths"
+"Date","Historical Avg (2015-2019)","Cumulative COVID Deaths","Daily COVID Deaths","14 Day Avg COVID Deaths","Registered Deaths","14 Day Avg Registered Deaths","Excess Deaths based on 14 day avg"
 2020-04-27,158.771428571429,12,0,0,131,136,-22.7714285714286
 2020-04-28,159.771428571429,13,1,0.5,135,137.5,-22.2714285714286
 2020-04-29,159.257142857143,15,2,1,128,137.285714285714,-21.9714285714286
