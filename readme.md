@@ -8,10 +8,12 @@ Repository contains the following:
 	- [By date](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-date.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=date%2Cdesc&stickyColumnName=date)
 	- [By month](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-month.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=month%28date%29%2Cdesc&stickyColumnName=month%28date%29)
 	- [By day and sex](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fby-date-sex.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=month%28date%29%2Cdesc&stickyColumnName=month%28date%29)
-2) Excess mortality calculated from registered deaths and compared with reported COVID deaths. [Data](ered-deaths-excess-mortality?filename=data%2Fexcess-deaths.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=Date%2Cdesc&stickyColumnName=Date)
+2) Excess mortality calculated from registered deaths and compared with reported COVID deaths. [Data](https://flatgithub.com/gurmanbh/chennai-registered-deaths-excess-mortality?filename=data%2Fexcess-deaths.csv&filters=&sha=b5641e00448585cce53c902c872fc02fc79061b0&sort=Date%2Cdesc&stickyColumnName=Date)
 3) Charts illustrating the extent
 
-Note: All figures were last updated on June 9, 2021. As explained by [Rukmini S in this story](https://www.thehindu.com/opinion/op-ed/interpreting-deaths-in-chennai/article34645264.ece), the data for 2021 (in particular, April and May), is likely to be an underestimate as people have up to an year to register deaths. Because of the same, the charts end at May 4, 2021. I plan on updating this repository periodically.
+Note: All datasheets were last updated on June 16, 2021. As explained by [Rukmini S in this story](https://www.thehindu.com/opinion/op-ed/interpreting-deaths-in-chennai/article34645264.ece), the data for 2021 is likely to be an underestimate as people have up to an year to register deaths. I plan on updating this repository periodically.
+
+The charts end at May 4, 2021 and are based on data pulled on June 9.
 
 ---------
 ## What is excess mortality?
@@ -23,7 +25,7 @@ As the second wave of the pandemic sweeps through the country, and reported numb
 ----------
 
 ## Chennai's Factor
-For the period between April 27, 2020 and May 04, 2021, Chennai recorded the following numbers
+As per data pulled on June 9, for the period between April 27, 2020 and May 04, 2021, Chennai recorded the following numbers
 
 - Registered Deaths: 83,153
 - Reported COVID Deaths:  4,879
